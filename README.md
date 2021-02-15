@@ -1,6 +1,8 @@
 ## Mini appplication React
 
-Mini app faite en React utilisant Hooks pour chercher y afficher 
-gifs animés en utilisant l’API GIPHY https://developers.giphy.com/
+Mini application faite en React utilisant Hooks pour chercher y afficher gifs animés.
 
-Cette app est visible dans gitHub page : https://jcboy.github.io/react-gifApp/
+Utilisation de l’API GIPHY https://developers.giphy.com/
+
+Cette application est visible dans gitHub page : https://jcboy.github.io/react-gifApp/
+

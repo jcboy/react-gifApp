@@ -6,3 +6,8 @@ Utilisation de l’API GIPHY https://developers.giphy.com/
 
 Cette application est visible dans gitHub page : https://jcboy.github.io/react-gifApp/
 
+<br>
+
+**Aperçu**
+
+![alt text](./public/gif-app.jpg)
